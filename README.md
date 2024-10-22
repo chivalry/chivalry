@@ -1,4 +1,4 @@
-I've been a professional developer for nearly 30 years (amateur going back another 10), working mostly in FileMaker, web stacks including Python, Node, and PHP, and most recently adding Salesforce.
+I've been a professional developer for over 30 years (amateur going back another 10), working mostly in FileMaker, web stacks including Python, Node, and PHP, and most recently adding Salesforce.
 
 - 🔭 I’m currently working on client projects using FileMaker and Salesforce
 - 🌱 I’m currently learning Salesforce development and CI/CD
